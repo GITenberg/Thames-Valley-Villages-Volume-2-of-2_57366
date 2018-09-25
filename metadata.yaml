@@ -1,10 +1,13 @@
 _repo: Thames-Valley-Villages-Volume-2-of-2_57366
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Campbell, W. S.
     gutenberg_agent_id: '49354'
     url: http://www.gutenberg.org/2009/agents/49354
+covers:
+- cover_type: archival
+  image_path: 57366-h/images/cover.jpg
 creator:
   author:
     agent_name: Harper, Charles G. (Charles George)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '39133'
     url: http://www.gutenberg.org/2009/agents/39133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57366#Thames-Valley-Villages-Volume-2-of-2
 gutenberg_issued: '2018-06-23'
 gutenberg_type: Text
 identifiers:
